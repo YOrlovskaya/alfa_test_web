@@ -188,10 +188,6 @@ textarea {
   flex-wrap: wrap;
 }
 
-.navbar-brand img {
-  max-width: 160px;
-}
-
 .navbar-nav {
   margin-left: auto;
 }
@@ -447,12 +443,6 @@ textarea.form-control {
 }
 
 /* Footer */
-.footer-row {
-  display: flex;
-  justify-content: space-between;
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
 
 .footer-copyright {
   opacity: .6;

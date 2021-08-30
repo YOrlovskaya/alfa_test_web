@@ -1,0 +1,10 @@
+.navbar-brand img {
+  max-width: 160px;
+}
+
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
