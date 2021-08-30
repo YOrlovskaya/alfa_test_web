@@ -435,6 +435,22 @@ textarea.form-control {
   margin-bottom: 15px;
 }
 
+.form-col-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#error {
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @media (min-width: 768px) {
   .form-col-50 {
     max-width: 50%;
